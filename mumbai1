@@ -1,1 +1,8 @@
 Hi My name is Sayak Adak
+I am Write a Code
+#include<stdio.h>
+#include<conio.h>
+int main() {
+printf("Hello World");
+return 0;
+}
